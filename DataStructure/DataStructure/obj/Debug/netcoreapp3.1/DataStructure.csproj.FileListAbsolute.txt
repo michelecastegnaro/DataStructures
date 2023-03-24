@@ -1,0 +1,28 @@
+C:\Users\giaco\Desktop\DataStructure\DataStructure\bin\Debug\netcoreapp3.1\DataStructure.exe
+C:\Users\giaco\Desktop\DataStructure\DataStructure\bin\Debug\netcoreapp3.1\DataStructure.deps.json
+C:\Users\giaco\Desktop\DataStructure\DataStructure\bin\Debug\netcoreapp3.1\DataStructure.runtimeconfig.json
+C:\Users\giaco\Desktop\DataStructure\DataStructure\bin\Debug\netcoreapp3.1\DataStructure.runtimeconfig.dev.json
+C:\Users\giaco\Desktop\DataStructure\DataStructure\bin\Debug\netcoreapp3.1\DataStructure.dll
+C:\Users\giaco\Desktop\DataStructure\DataStructure\bin\Debug\netcoreapp3.1\DataStructure.pdb
+C:\Users\giaco\Desktop\DataStructure\DataStructure\obj\Debug\netcoreapp3.1\DataStructure.csproj.AssemblyReference.cache
+C:\Users\giaco\Desktop\DataStructure\DataStructure\obj\Debug\netcoreapp3.1\DataStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giaco\Desktop\DataStructure\DataStructure\obj\Debug\netcoreapp3.1\DataStructure.AssemblyInfoInputs.cache
+C:\Users\giaco\Desktop\DataStructure\DataStructure\obj\Debug\netcoreapp3.1\DataStructure.AssemblyInfo.cs
+C:\Users\giaco\Desktop\DataStructure\DataStructure\obj\Debug\netcoreapp3.1\DataStructure.csproj.CoreCompileInputs.cache
+C:\Users\giaco\Desktop\DataStructure\DataStructure\obj\Debug\netcoreapp3.1\DataStructure.dll
+C:\Users\giaco\Desktop\DataStructure\DataStructure\obj\Debug\netcoreapp3.1\DataStructure.pdb
+C:\Users\giaco\Desktop\DataStructure\DataStructure\obj\Debug\netcoreapp3.1\DataStructure.genruntimeconfig.cache
+C:\Users\giaco\Desktop\Archivio\School\A.S. 2021-2022\INFORMATICA\DataStructure\DataStructure\bin\Debug\netcoreapp3.1\DataStructure.exe
+C:\Users\giaco\Desktop\Archivio\School\A.S. 2021-2022\INFORMATICA\DataStructure\DataStructure\bin\Debug\netcoreapp3.1\DataStructure.deps.json
+C:\Users\giaco\Desktop\Archivio\School\A.S. 2021-2022\INFORMATICA\DataStructure\DataStructure\bin\Debug\netcoreapp3.1\DataStructure.runtimeconfig.json
+C:\Users\giaco\Desktop\Archivio\School\A.S. 2021-2022\INFORMATICA\DataStructure\DataStructure\bin\Debug\netcoreapp3.1\DataStructure.runtimeconfig.dev.json
+C:\Users\giaco\Desktop\Archivio\School\A.S. 2021-2022\INFORMATICA\DataStructure\DataStructure\bin\Debug\netcoreapp3.1\DataStructure.dll
+C:\Users\giaco\Desktop\Archivio\School\A.S. 2021-2022\INFORMATICA\DataStructure\DataStructure\bin\Debug\netcoreapp3.1\DataStructure.pdb
+C:\Users\giaco\Desktop\Archivio\School\A.S. 2021-2022\INFORMATICA\DataStructure\DataStructure\obj\Debug\netcoreapp3.1\DataStructure.csproj.AssemblyReference.cache
+C:\Users\giaco\Desktop\Archivio\School\A.S. 2021-2022\INFORMATICA\DataStructure\DataStructure\obj\Debug\netcoreapp3.1\DataStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giaco\Desktop\Archivio\School\A.S. 2021-2022\INFORMATICA\DataStructure\DataStructure\obj\Debug\netcoreapp3.1\DataStructure.AssemblyInfoInputs.cache
+C:\Users\giaco\Desktop\Archivio\School\A.S. 2021-2022\INFORMATICA\DataStructure\DataStructure\obj\Debug\netcoreapp3.1\DataStructure.AssemblyInfo.cs
+C:\Users\giaco\Desktop\Archivio\School\A.S. 2021-2022\INFORMATICA\DataStructure\DataStructure\obj\Debug\netcoreapp3.1\DataStructure.csproj.CoreCompileInputs.cache
+C:\Users\giaco\Desktop\Archivio\School\A.S. 2021-2022\INFORMATICA\DataStructure\DataStructure\obj\Debug\netcoreapp3.1\DataStructure.dll
+C:\Users\giaco\Desktop\Archivio\School\A.S. 2021-2022\INFORMATICA\DataStructure\DataStructure\obj\Debug\netcoreapp3.1\DataStructure.pdb
+C:\Users\giaco\Desktop\Archivio\School\A.S. 2021-2022\INFORMATICA\DataStructure\DataStructure\obj\Debug\netcoreapp3.1\DataStructure.genruntimeconfig.cache
